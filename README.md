@@ -20,7 +20,7 @@
   </a>
 </p>
 
-> A very simple function based implementation of node.js worker threads
+> A very simple function based implementation of node.js worker threads.
 
 ### 🏠 [Homepage](https://github.com/karankraina/nodejs-threads#readme)
 
